@@ -1,0 +1,24 @@
+{
+  "name": "File Reader",
+  "description": "",
+  "version": "0.0.1",
+  "main": "./main.js",
+  "author": {
+    "name": "brunomoraes",
+    "email": "brunofloyd@gmail.com"
+  },
+  "keywords": [],
+  "licenses": {
+    "type": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/YOUR_LOGIN/File Reader.git"
+  },
+  "bugs": {
+    "url": "http://github.com/YOUR_LOGIN/File Reader/issues"
+  },
+  "dependencies": {
+    "async": "^2.0.0-rc.5"
+  }
+}
